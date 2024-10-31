@@ -1,5 +1,5 @@
 # DriverPrivesc
-A privilege escalation vulnerability in the ECHOAC anti-cheat driver EchoDrv
+A privilege escalation vulnerability in the ECHOAC anti-cheat driver EchoDrv.sys
 
 # Issue
 
